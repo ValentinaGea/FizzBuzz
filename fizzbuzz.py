@@ -10,4 +10,4 @@ def fizzbuzz(max_value):
       print(num)
 
 
-fizzbuzz(32)
+fizzbuzz(101)
